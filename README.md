@@ -1,0 +1,2 @@
+# cloudsecops-ctf
+Simple CTF
